@@ -1,7 +1,7 @@
 # django-poll-app
 simple poll app made using django  
 # steps to run
-# step 1
+## step 1
 clone this repository "git clone https://github.com/Manojailuri/django-poll-app.git"
 # step 2
 cd change/directory/to/manage.py
