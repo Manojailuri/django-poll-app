@@ -1,7 +1,6 @@
 # django-poll-app
 simple poll app made using django  
-tests.py in polls directory  
-run `python manage.py test polls`
+
 ## steps to run
 ### step 1
 clone this repository `git clone https://github.com/Manojailuri/django-poll-app.git` <br>
@@ -16,4 +15,7 @@ run migrations in directory with manage.py in it
 run server  
 `python manage.py runserver`
 ### step 6
-vist local host server on any browser `http://127.0.0.1:8000/`
+vist local host server on any browser `http://127.0.0.1:8000/`  
+<br>
+tests.py in polls directory  
+run `python manage.py test polls` for testing
