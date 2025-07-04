@@ -1,5 +1,7 @@
 # django-poll-app
 simple poll app made using django  
+tests.py in polls directory  
+run `python manage.py test polls`
 ## steps to run
 ### step 1
 clone this repository `git clone https://github.com/Manojailuri/django-poll-app.git` <br>
